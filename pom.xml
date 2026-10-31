@@ -15,4 +15,7 @@
     <scope>test</scope>
 </dependency>
   </dependencies>
+
+<!-- Testing Jenkins Poll SCM automatic build -->
+
 </project>
